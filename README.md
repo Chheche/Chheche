@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael <br></h1>
-I am a passionate CS & ML student, exploring data and technology to solve complex problems.
+<p align="center">I am a passionate CS & ML student, exploring data and technology to solve complex problems. <br></p>
 
 <!--
 **Chheche/Chheche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
